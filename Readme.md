@@ -5,4 +5,4 @@ GitHub! I'm looking improve my skills as a programmer!
 
 It is a choice game that you play through command lines, It has a little story that you can find here
 
-I hope you enjoy
+I hope you enjoy!
