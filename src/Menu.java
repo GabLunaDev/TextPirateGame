@@ -1,14 +1,14 @@
 public class Menu {
     public static void MensagemInicial(String name) {
-        System.out.println("\n ██████╗ █████╗  ██████╗ █████╗      █████╗  ██████╗     ████████╗███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗ \n" +
+        System.out.println(Colors.ANSI_YELLOW + "\n ██████╗ █████╗  ██████╗ █████╗      █████╗  ██████╗     ████████╗███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗ \n" +
                 "██╔════╝██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██╔═══██╗    ╚══██╔══╝██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔═══██╗\n" +
                 "██║     ███████║██║     ███████║    ███████║██║   ██║       ██║   █████╗  ███████╗██║   ██║██║   ██║██████╔╝██║   ██║\n" +
                 "██║     ██╔══██║██║     ██╔══██║    ██╔══██║██║   ██║       ██║   ██╔══╝  ╚════██║██║   ██║██║   ██║██╔══██╗██║   ██║\n" +
                 "╚██████╗██║  ██║╚██████╗██║  ██║    ██║  ██║╚██████╔╝       ██║   ███████╗███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝\n" +
                 " ╚═════╝╚═╝  ╚═╝ ╚═██═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝        ╚═╝   ╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ \n" +
-                "                                                                                                                     ");
-        System.out.printf("O tesouro de Akassia e um dos mais antigos do mundo. Muitas pessoas tentaram encontralo, porem, nenhuma das pessoas tiveram exito nesse percurso. \n" +
-                "Monstros, mares de ondas colossais, redemoinhos, entre outros empecilhos foram encontrados pelos caçadores de tesouros. Voce, %s, foi incentivado\n" +
+                "                                                                                                                     " + Colors.ANSI_RESET);
+        System.out.printf("O tesouro de "+ Colors.ANSI_BOLD_TEXT+ Colors.ANSI_CYAN +"Akassia"+ Colors.ANSI_RESET +" e um dos mais antigos do mundo. Muitas pessoas tentaram encontralo, porem, nenhuma das pessoas tiveram exito nesse percurso. \n" +
+                "Monstros, mares de ondas colossais, redemoinhos, entre outros empecilhos foram encontrados pelos caçadores de tesouros. Voce, "+ Colors.ANSI_BOLD_TEXT + Colors.ANSI_RED +"%s"+ Colors.ANSI_RESET + ", foi incentivado\n" +
                 "por toda uma família de piratas que buscam contribuir para a construcao da sua vila que foi destruida em uma disputa territorial. Tome cuidado, viajante.\n" +
                 "O caminho é um dos mais tortuosos que você um dia ousou seguir!", name);
     }
