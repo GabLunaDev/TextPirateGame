@@ -1,8 +1,11 @@
 ## TextPirateGame
 
-I'm a Student of Computer Science and this is my first personal project in 
-GitHub! I'm looking to improve my skills as a programmer!
+Este é meu primeiro projeto pessoal aqui no GitHub. Este projeto é um minigame de 
+escolhas para se jogar no prompt de comando. O desenvolvi em ***Java*** para aprimorar
+minhas habilidades na linguagem.
 
-It is a choice game that you play through command lines, It has a little story that you can find here
+Ele contém uma historia inacabada e com algumas poucas interações, isso ocorre por seu desenvolvimento que
+será constante. A primeira versão do jogo logo será disponibilizada você poderá aproveitar ele em qualquer
+local que exista uma ***JRE***. Vou me esforçar para isso!
 
-I hope you enjoy!
+Aproveitem o jogo e se puderem deixem seus feedbacks isso irá ajudar demais!

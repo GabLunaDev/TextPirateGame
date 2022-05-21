@@ -19,4 +19,6 @@ public class Colors {
     public static final String ANSI_WHITE_BACKGROUND = "\u001B[47m";
 
     public static final String ANSI_BOLD_TEXT = "\u001B[1m";
+    public static final String ANSI_UNDELINED_TEXT = "\u001b[4m";
+
 }
