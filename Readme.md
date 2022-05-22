@@ -9,3 +9,11 @@ será constante. A primeira versão do jogo logo será disponibilizada você pod
 local que exista uma ***JRE***. Vou me esforçar para isso!
 
 Aproveitem o jogo e se puderem deixem seus feedbacks isso irá ajudar demais!
+
+### Instruções:
+
+#### Linux:
+
+#### Windows:
+
+#### Mac:
