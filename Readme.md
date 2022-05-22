@@ -13,7 +13,11 @@ Aproveitem o jogo e se puderem deixem seus feedbacks isso irá ajudar demais!
 ### Instruções:
 
 #### Linux:
-
+Para iniciar o jogo no linux, pegue o arquivo zip determinado para este sistema operacional, extraia os arquivos
+para a pasta que deseja. Com os arquivos extraídos abra o terminal clicando com o botão direito no diretório
+onde se encontram os arquivos e digite o seguinte comando:
+```console
+bash TextPirateGame.sh
+```
 #### Windows:
-
-#### Mac:
+Para iniciar o jogo basta extrair os arquivos da pasta zipada referente ao windows, e executar o arquivo **TextPirateGame.bat**
